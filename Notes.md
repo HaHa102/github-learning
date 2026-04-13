@@ -7,3 +7,6 @@
 - Fork
 - Pull requests
   
+## More
+- Start means favorite
+- Watch means follow project updates 
